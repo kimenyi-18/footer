@@ -1,0 +1,52 @@
+
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.container{
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+     position: relative;
+    top: 550px;
+    height: 260px;
+}
+ul{
+    display: flex;
+
+}
+li{
+    color: white;
+    list-style: none;
+    margin: 20px;
+    font-size: 20px;
+    font-weight: bolder;
+    text-transform: capitalize;
+
+}
+hr{
+    width: 1300px;
+}
+p{
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 15px;
+}
+.bottom{
+    display: flex;
+    padding: 20px;
+}
+.one{
+    width: 33.3%;
+}
+.two{
+    width: 33.3%;
+}
+.tree{
+    width: 33.3%;
+}
+i{
+    margin: 10px;
+    font-size: 20px;
+}
